@@ -1,0 +1,23 @@
+/* Centraliza horizontalmente */
+#tarefas {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px; /* espaço do topo pra dar um respiro */
+}
+
+/* Organiza os elementos em coluna (um embaixo do outro) */
+#form-tarefa {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* opcional: centraliza os itens dentro do form */
+    gap: 10px; /* espacinho entre o input e o botão */
+}
+
+/* Estiliza o input e botão pra ficarem mais amigáveis */
+.input-item,
+.button-item {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
