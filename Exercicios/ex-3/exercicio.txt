@@ -1,0 +1,3 @@
+Exercício 3) Implementando controles dinâmicos em uma lista de compras
+
+Neste exercício, você precisa construir uma funcionalidade em JavaScript que permite ao usuário adicionar novos itens em uma lista de tarefas, cada um com um checkbox associado. O desafio está em fazer com que cada checkbox tenha um ID único que se incrementa automaticamente, garantindo que cada item possa ser identificado individualmente.
