@@ -3,7 +3,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 50px; /* espaço do topo pra dar um respiro */
+    margin-top: 40px; /* espaço do topo pra dar um respiro */
 }
 
 /* Organiza os elementos em coluna (um embaixo do outro) */
